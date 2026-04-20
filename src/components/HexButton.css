@@ -2,4 +2,9 @@
     padding: 4rem;
     border: solid 1px;
     border-radius: 11px;
+    cursor: pointer;
+}
+
+.HexButton:hover {
+    border-width: 3px;
 }
